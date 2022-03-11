@@ -1,3 +1,6 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
 body {
   margin: 0;
   padding: 0;
@@ -94,6 +97,34 @@ nav a:hover {
 
 .banner_options {
   height: 210px;
+  display: flex;
 }
+
+.banner1,
+.banner2,
+.banner3{
+  flex: 1;
+  color: #fff;
+  padding: 20px;
+}
+
+.banner1{
+  background-color: #39aae1;
+
+}
+.banner2{
+  background-color: #0079c7;
+  
+}
+.banner3{
+  background-color: #2b4c99;
+  
+}
+
+.banner_title{
+  
+}
+
+
 
 
