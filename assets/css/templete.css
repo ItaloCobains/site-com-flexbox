@@ -141,6 +141,19 @@ nav a:hover {
 
 }
 
+.banner_hours{
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #fff;
+  font-size: 12px;
+}
+
+
+
+
 
 
 
