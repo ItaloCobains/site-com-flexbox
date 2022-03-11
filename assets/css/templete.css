@@ -122,7 +122,23 @@ nav a:hover {
 }
 
 .banner_title{
-  
+  font-size: 25px;
+}
+
+.banner_desc{
+  font-size: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.banner_options a{
+  display: inline-block;
+  border: 1px solid #fff;
+  padding: 5px;
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+
 }
 
 
