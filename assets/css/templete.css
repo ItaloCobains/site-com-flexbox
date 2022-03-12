@@ -184,6 +184,11 @@ nav a:hover {
   justify-content: space-around;
 }
 
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .bloco{
   width: 150px;
   height: 150px;
@@ -240,4 +245,13 @@ article .news_resume{
   font-size: 14px;
   color: #5c5c5c;
   line-height: 20px;
+  margin-bottom: 30px;
 }
+
+
+article{
+  flex: 1;
+  min-width: 300px;
+  margin-right: 20px;
+}
+
