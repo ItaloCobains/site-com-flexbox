@@ -255,3 +255,62 @@ article{
   margin-right: 20px;
 }
 
+footer{
+  background-color: #1e1e1e;
+  display: flex;
+  justify-content: center;
+}
+
+
+.footer_menu{
+  display: flex;
+}
+
+.fm_1, .fm_2, .fm_3{
+  flex: 1;
+  color: #fff;
+  padding: 20px;
+}
+
+.fm_1 {
+  background-color: #39aae1;
+}
+.fm_2 {
+  background-color: #0079c7;
+}
+.fm_3 {
+  background-color: #2b4c99;
+}
+
+.footer_area{
+  display: flex;
+}
+
+.footer_areaitem{
+  flex: 1;
+  color: #fff;
+}
+
+.flexColumn{
+  flex-direction: column;
+}
+
+footer .widget_title_text{
+  color: #fff;
+}
+
+.footer_copy{
+  border-top: 1px solid #2c2c2c;
+  height: 40px;
+  line-height: 40px;
+  color: #5c5c5c;
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+footer p{
+  font-size: 15px;
+}
+
+
+/* 09:53 */
